@@ -18040,9 +18040,11 @@ Pages - Contact
 * Layout - Header
 *****************************/
 .header-top-bg--black {
+    background: #0000;
+}
+.header-top-bg--ocean {
     background: #e78c03;
 }
-
 .header-top-bg--white {
     background: #FFF;
     padding-top: 20px;
